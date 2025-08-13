@@ -4,7 +4,7 @@
       "name": "Test",
       "category": "Ball Detect",
       "description": "Ball Detect",
-      "download_url": "https://example.com/models/yolov7_custom.pt",
+      "download_url": "https://raw.githubusercontent.com/Plutana-eng/Ai-Test/refs/heads/main/jsons/Test-Blue.v1i.yolov7pytorch.zip",
       "version": "1.0",
       "size": "NULL"
     }
