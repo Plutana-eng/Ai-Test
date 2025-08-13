@@ -1,1 +1,12 @@
-
+{
+  "models": [
+    {
+      "name": "Test",
+      "category": "Ball Detect",
+      "description": "Ball Detect",
+      "download_url": "https://example.com/models/yolov7_custom.pt",
+      "version": "1.0",
+      "size": "NULL"
+    }
+  ]
+}
